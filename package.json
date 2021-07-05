@@ -1,5 +1,5 @@
 {
-  "name": "garuda-cli",
+  "name": "garuda",
   "version": "0.0.1",
   "description": "CLI tools to generate scaffolding of garuda application",
   "main": "bin/index.js",
